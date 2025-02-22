@@ -1,1 +1,1 @@
-# photobooth_hashusername.github.io
+# photobooth_hash.github.io
